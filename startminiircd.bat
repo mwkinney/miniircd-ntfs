@@ -1,0 +1,1 @@
+c:\python27\python.exe c:\miniircd\miniircd --motd=\\h1-chqaws11.tlr.thomson.com\c$\miniircd\motd --logdir=c:\miniircd\log --statedir=c:\miniircd\state
