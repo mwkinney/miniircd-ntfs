@@ -1,1 +1,1 @@
-Miniircd fork - Python3 update and changes for NTFS
+Miniircd fork - changes for NTFS
